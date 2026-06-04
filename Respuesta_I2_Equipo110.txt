@@ -4,3 +4,52 @@ Serrano Marcos
 
 C-) Gamma no formo parte de la clase, por lo que no interactuó y no tenemos manera de responder a la pregunta en este momento
 D-) No, los datos de mi repositorio no se pierden, quedan guardados
+E-) Listado:
+    .git clone https://github.com/marc5-55/TP_SO_i2_Equipo.git
+    .cd TP_SO_i2_Equipo/
+    .git status
+    .git status
+    .git add .
+    .git status
+    .git commit -m "archivo fork creado por beta"
+    .git status
+    .git push
+    .creacion del repo y el fork
+    .git clone https://github.com/marc5-55/TP_SO_i2_Equipo.git
+    .cd TP_SO_i2_Equipo/
+    .git status
+    .git status
+    .git add .
+    .git status
+    .git commit -m "Alfa modificó el archivo y agregó sus datos correspondientes"
+    .git status
+    .git push
+    .git clone https://github.com/marc5-55/TP_SO_i2_Equipo.git
+    .cd TP_SO_i2_Equipo/
+    .git status
+    .git status
+    .git add .
+    .git status
+    .git commit -m "Archivo nuevo dato creado por Beta"
+    .git status
+    .git push
+    .git clone https://github.com/marc5-55/TP_SO_i2_Equipo.git
+    .cd TP_SO_i2_Equipo/
+    .git status
+    .git status
+    .git add .
+    .git status
+    .git commit -m "Archivo de respuestas creado por Beta"
+    .git status
+    .git pushgit clone https://github.com/marc5-55/TP_SO_i2_Equipo.git
+    .cd TP_SO_i2_Equipo/
+    .git status
+    .git status
+    .git add .
+    .git status
+    .git commit -m "Beta agregó a los integrantes al archivo de respuestas"
+    .git status
+    .git push
+
+     
+     
