@@ -1,6 +1,11 @@
 Integrantes
 Cobacho Thiago
 Serrano Marcos
+Ailin Fernandez
+
+A-)Para actualizar mi fork tengo que traer los cambios del repositorio original y agregarlos a mi repositorio.
+
+B-) Sí, ALFA puede actualizar su fork con los cambios de GAMMA si tiene acceso a esos cambios.
 
 C-) Gamma no formo parte de la clase, por lo que no interactuó y no tenemos manera de responder a la pregunta en este momento
 D-) No, los datos de mi repositorio no se pierden, quedan guardados
@@ -49,7 +54,19 @@ E-) Listado:
     .git status
     .git commit -m "Beta agregó a los integrantes al archivo de respuestas"
     .git status
-    .git push
+    
+Comandos realizados por GAMMA:
+
+.git clone https://github.com/marc5-55/TP_SO_i2_Equipo.git
+.cd TP_SO_i2_Equipo
+.git add .
+.git commit -m "gamma agrega sus datos"
+.git push
+.git add Respuesta_I2_Equipo110.txt
+.git commit -m "Gamma responde A y B"
+.git push
+.git push
+
 
      
      
